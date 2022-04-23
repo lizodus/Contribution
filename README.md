@@ -16,9 +16,10 @@ Blockgame Team Cntribution
 
 
 ### Task 3
-- [Added the teacher role and publish result function](https://github.com/Bg-Team-C/Voting/pull/5)
-- [Add the candidate field component](https://github.com/Bg-Team-C/Voting/pull/7)
-- [Refactored voting contract and added School ccontract](https://github.com/Bg-Team-C/Voting/pull/9)
-- [Refactored Voting contract to support multiple elections](https://github.com/Bg-Team-C/Voting/pull/11)
-- [Add the deploy script for both contracts](https://github.com/Bg-Team-C/Voting/pull/12)
-- [included a add stakeholders function to handle bulk additon](https://github.com/Bg-Team-C/Voting/pull/14)
+- [Wrote the voting function](https://github.com/Bg-Team-C/Voting/pull/1)
+- [Updated the voting function](https://github.com/Bg-Team-C/Voting/pull/2)
+- [Worked on the readme](https://github.com/Bg-Team-C/Voting/pull/3)
+- [Started working on the frontend](https://github.com/Bg-Team-C/Voting/pull/4)
+- [Updated the smart contract and frontend](https://github.com/Bg-Team-C/Voting/pull/6)
+- [Updated the smart contract and worked on test](https://github.com/Bg-Team-C/Voting/pull/13)
+- [Test and Natspec](https://github.com/Bg-Team-C/Voting/pull/16)
